@@ -63839,7 +63839,7 @@ a1=a6.e
 a=a.a/1.5>=a0.b-100?A.a(a1,a8).a.b-100:A.a(a1,a8).a.a/1.5}else a=A.a(a6.e,a8).a.a/1.7
 a0=A.b([new A.dr(0,B.bP,B.E,B.l,30)],l)
 a1=A.c8(20)
-n=A.X(a7,A.zc(B.li,A.b([new A.b_(new A.P(i.a*0.1,h,0,g),b,a7),A.X(f,A.bk(A.b([A.X(a7,a7,B.j,a7,a7,new A.bb(a7,A.ahy(B.lJ,new A.lM("assets/images/yawar2.jpg",a7,a7),a7),a7,a1,a0,a7,B.C),a7,a,a7,a7,a7,a7,a7,d)],a5),B.p,a7,B.ak,B.m,B.w),B.j,a7,a7,a7,a7,a7,a7,e,a7,a7,a7,a7)],a5),j),B.j,a7,a7,new A.bb(m,a7,a7,a7,k,a7,B.C),a7,o,a6.Q,a7,n,a7,a7,1/0)
+n=A.X(a7,A.zc(B.li,A.b([new A.b_(new A.P(i.a*0.1,h,0,g),b,a7),A.X(f,A.bk(A.b([A.X(a7,a7,B.j,a7,a7,new A.bb(a7,A.ahy(B.lJ,new A.lM("assets/images/yawar.jpg",a7,a7),a7),a7,a1,a0,a7,B.C),a7,a,a7,a7,a7,a7,a7,d)],a5),B.p,a7,B.ak,B.m,B.w),B.j,a7,a7,a7,a7,a7,a7,e,a7,a7,a7,a7)],a5),j),B.j,a7,a7,new A.bb(m,a7,a7,a7,k,a7,B.C),a7,o,a6.Q,a7,n,a7,a7,1/0)
 o=A.bt(A.b([A.bC(B.C9,a7,36),A.bM(a7,a7,8),A.as(b2,A.aa(a7,a7,B.Q,a7,a7,a7,a7,a7,a7,a7,a7,32,a7,B.t,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)],a5),B.p,B.ak,B.m)
 k=a6.dx
 m=A.a(a6.e,a8).a.a*0.1
