@@ -63850,7 +63850,7 @@ k=a6.dx
 m=A.a(a6.e,a8).a.a*0.1
 j=A.as("I'm Yawar Osman Khdir",A.aa(a7,a7,A.a(a6.d,b0).R8.y.b,a7,a7,a7,a7,a7,a9,a7,a7,23,a7,B.t,a7,1.3,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)
 e=A.bM(a7,15,a7)
-d=A.as("I am full-stack flutter developer, i can build websites and web application also mobile application (android and ios), desktop applications (windows, linux and macos) with more than 2 years of experience in flutter and has computer science background and a very good knowledge of dart language that used with flutter, also other programming languages and technologies.",A.aa(a7,a7,A.a(a6.d,b0).R8.y.b,a7,a7,a7,a7,a7,b1,a7,a7,18,a7,B.A,a7,1.4,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)
+d=A.as("I am full-stack flutter developer, i can build websites and web application also mobile application (android and ios), desktop applications (windows, linux and macos) with more than 2 years of experience in flutter and have computer science background and a very good knowledge of dart language that used with flutter, also other programming languages and technologies.",A.aa(a7,a7,A.a(a6.d,b0).R8.y.b,a7,a7,a7,a7,a7,b1,a7,a7,18,a7,B.A,a7,1.4,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)
 i=A.a(a6.e,a8).a.a<=700?195:110
 h=A.a(a6.e,a8).a.a>=700?B.U:B.Z
 g=A.as("Age:  ",A.aa(a7,a7,B.aN,a7,a7,a7,a7,a7,b1,a7,a7,A.a(a6.e,a8).a.a<=440?14:16,a7,a7,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)
